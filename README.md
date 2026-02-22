@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/FAISS-Vector%20Search-orange" />
   <img src="https://img.shields.io/badge/NetworkX-Graph%20RAG-green" />
   <img src="https://img.shields.io/badge/SentenceTransformers-MiniLM-purple" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
+
 </p>
 
 <p align="center">
@@ -162,12 +162,6 @@ When a query is submitted:
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests for improvements, bug fixes, or new features.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
