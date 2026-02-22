@@ -56,8 +56,6 @@ PDF Documents → Text Extraction → Chunking → Embeddings
 DataCo-global-policies-RAG-pipeline/
 │
 ├── DataCo_policies_RAG.ipynb   # Main notebook (run in Colab)
-├── embeddings.parquet           # Persisted chunk embeddings
-├── embedding.index              # FAISS index file
 └── README.md
 ```
 
